@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshrai03&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshrai03" /> </p>
 
-- 🔭 I’m currently working on **SAHAYAK**
+- 🔭 I’m currently working on **ONDC HACKATHON**
 
 - 🌱 I’m currently learning **ReactJS**
 
